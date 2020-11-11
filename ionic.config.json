@@ -1,0 +1,7 @@
+{
+  "name": "BluetoothConnect",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
